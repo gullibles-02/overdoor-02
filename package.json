@@ -1,10 +1,13 @@
 {
-  "name": "1lIux6zNiHQa5YjJiAs6KZ3Xl9NcS7cFHwPPtAFpxU5iNSwMdm",
+  "name": "ตรวจสลาก เลือกยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "ตรวจสลาก เมื่อวันที่ จนถึง ตรวจสลาก Huaysod หวยออนไลน์ อันดับหนึ่ง 30165 มีข่าวรายงานว่าบริเวรศาลเก่า พ่อปู่ศรีสุทโธ แม่ย่าศรีปทุม เกาะคำชะโนด บ้านโนนเมือง",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": ["ตรวจสลาก","ตรวจสลาก Huaysod"],
+  "keywords": [
+    "ตรวจสลาก",
+    "ตรวจสลาก Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
