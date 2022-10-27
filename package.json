@@ -1,22 +1,10 @@
 {
-  "name": "ตรวจหวย 1 มิ ย 2565 ดูที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "RSoF4j9IR5fmVwZaETDHh6PdheazobU5htAvEfZQW47KPTIsTR",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "ตรวจหวย 1 มิ ย 2565 เลขท้ายรางวัลที่ ถึง ตรวจหวย 1 มิ ย 2565 Thailotto หวยออนไลน์ อันดับหนึ่ง 1 มีดังนี้ชุดเน้น 6 ได้แก่ 62-63-64-67ชุดเน้น 5 ได้แก่ 52-53-",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": [
-    "ตรวจหวย 1 มิ ย 2565",
-    "ตรวจหวย",
-    "1",
-    "มิ",
-    "ย",
-    "2565",
-    "ตรวจหวย Thailotto",
-    "1 Thailotto",
-    "มิ Thailotto",
-    "ย Thailotto",
-    "2565 Thailotto"
-  ],
+  "keywords": ["ตรวจหวย 1 มิ ย 2565","ตรวจหวย","1","มิ","ย","2565","ตรวจหวย Thailotto","1 Thailotto","มิ Thailotto","ย Thailotto","2565 Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
