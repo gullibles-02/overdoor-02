@@ -1,10 +1,24 @@
 {
-  "name": "h3YkY5Ivwmy9Hi40hSlfauzRRINN8K1Zs4DAAuM3D0PHBkmMIV",
+  "name": "สูตร ยี่กี มา ชัวร์ เบ ท เล่นยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "สูตร ยี่กี มา ชัวร์ เบ ท เด่น ได้แก่ สูตร ยี่กี มา ชัวร์ เบ ท Thailotto หวยออนไลน์ อันดับหนึ่ง สูตร ยี่กี มา ชัวร์ เบ ท 6 ได้ชุดเลข 3 ตัว และ 2 ตัว ดังนี้5",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": ["สูตร ยี่กี มา ชัวร์ เบ ท","สูตร","ยี่กี","มา","ชัวร์","เบ","ท","สูตร Thailotto","ยี่กี Thailotto","มา Thailotto","ชัวร์ Thailotto","เบ Thailotto","ท Thailotto"],
+  "keywords": [
+    "สูตร ยี่กี มา ชัวร์ เบ ท",
+    "สูตร",
+    "ยี่กี",
+    "มา",
+    "ชัวร์",
+    "เบ",
+    "ท",
+    "สูตร Thailotto",
+    "ยี่กี Thailotto",
+    "มา Thailotto",
+    "ชัวร์ Thailotto",
+    "เบ Thailotto",
+    "ท Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
