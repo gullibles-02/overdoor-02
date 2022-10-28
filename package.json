@@ -1,16 +1,10 @@
 {
-  "name": "lotto-gewinner heute สรุปว่าอะไร - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "ZV7OGT1F4qbi5vvVIxcVKzVJIb1E9U42ZlCcmVY4C03nBjUpCm",
   "theme": "syntax",
   "version": "1.0.90",
   "description": "lotto-gewinner heute หวยหุ้นดาวโจนส์ กับ lotto-gewinner heute Thailotto หวยออนไลน์ อันดับหนึ่ง เป็นหวยที่ใช้ผลจากตลาดหุ้น Dow Jones มาอ้างอิงเป็นผลรางวัล ส",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": [
-    "LOTTO-GEWINNER HEUTE",
-    "LOTTO-GEWINNER",
-    "HEUTE",
-    "LOTTO-GEWINNER Thailotto",
-    "HEUTE Thailotto"
-  ],
+  "keywords": ["LOTTO-GEWINNER HEUTE","LOTTO-GEWINNER","HEUTE","LOTTO-GEWINNER Thailotto","HEUTE Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
