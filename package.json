@@ -1,10 +1,13 @@
 {
-  "name": "L1TjrzxXbmwsDwQwI1quLUdl8ISLiH41Z9u8HyvnYvASnidkHZ",
+  "name": "สูตรบาคาร่า5ดาว ทำไมถึงนิยม - เว็บใหม่ slotxo 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "สูตรบาคาร่า5ดาว Guslot ตาม สูตรบาคาร่า5ดาว SlotXO เว็บพนันออนไลน์ อันดับหนึ่ง การพนันคาสิโนออนไลน์ผ่านอินเทอร์เน็ต ที่ผู้เล่นจะได้เจอกับ การพนันคาสิโนสดทุก",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": ["สูตรบาคาร่า5ดาว","สูตรบาคาร่า5ดาว SlotXO"],
+  "keywords": [
+    "สูตรบาคาร่า5ดาว",
+    "สูตรบาคาร่า5ดาว SlotXO"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
