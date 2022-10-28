@@ -1,10 +1,13 @@
 {
-  "name": "X0ram6lMnQdTw1w1s340zI1R2EWZZ2SIrv37yYTChRvYIgSMIr",
+  "name": "หวยไต้หวัน สรุปว่าอะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.87",
   "description": "หวยไต้หวัน หวยไทยรัฐ ก่อน หวยไต้หวัน Huay หวย หวยออนไลน์ มีหวยทุกชนิด เป็นชุดเลขผลงานดีที่คอหวยติดตามกันทุกงวด ในวันนี้เว็บไซต์หวยไทยมีชุดเลขผลงานดีอีกหนึ่",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": ["หวยไต้หวัน","หวยไต้หวัน Huay"],
+  "keywords": [
+    "หวยไต้หวัน",
+    "หวยไต้หวัน Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
