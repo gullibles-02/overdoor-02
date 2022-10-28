@@ -1,10 +1,13 @@
 {
-  "name": "QU49FF2QYG48lG53XQJyYUXcccLPNH8p0tSANs4luloA2E9Ozb",
+  "name": "หวยหุ้นไทยล็อตโต้ ดูที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.85",
   "description": "หวยหุ้นไทยล็อตโต้ บนเด่น แต่ หวยหุ้นไทยล็อตโต้ Huay หวย หวยออนไลน์ มีหวยทุกชนิด 8 รอง 5 ได้ชุดเลข 3 ตัว หวยหุ้นไทยล็อตโต้ และ 2 ตัว ดังนี้348-384-843-834-4",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": ["หวยหุ้นไทยล็อตโต้","หวยหุ้นไทยล็อตโต้ Huay"],
+  "keywords": [
+    "หวยหุ้นไทยล็อตโต้",
+    "หวยหุ้นไทยล็อตโต้ Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
