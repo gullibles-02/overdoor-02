@@ -1,16 +1,10 @@
 {
-  "name": "ตรวจ lotto ได้อย่างไร - เว็บใหม่ cat888 2023 ล่าสุด",
+  "name": "cTy68wGRXv7Y6bpLkY1AGwhFqVaPofuUOHiRHwnJYppQYp3NzW",
   "theme": "syntax",
   "version": "1.0.76",
   "description": "ตรวจ Lotto ตรวจรางวัลหวยมาเลย์ ว่าด้วย ตรวจ Lotto Cat888 แคท888 หวยออนไลน์ มีหวยทุกชนิด Magnum 4d ผลหวยมาเลย์ 160665 เช็คผลมาเลย์วันนี้งวดล่าสุด ผลหวยมาเลย",
   "repository": "https://github.com/gullibles-02/overdoor-02",
-  "keywords": [
-    "ตรวจ LOTTO",
-    "ตรวจ",
-    "LOTTO",
-    "ตรวจ Cat888",
-    "LOTTO Cat888"
-  ],
+  "keywords": ["ตรวจ LOTTO","ตรวจ","LOTTO","ตรวจ Cat888","LOTTO Cat888"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
